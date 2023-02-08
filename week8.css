@@ -1,0 +1,61 @@
+nav {
+    font-size: 1.2em;
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+
+nav ul {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+} 
+
+ nav li {  
+     display: inline-block;  
+     margin-right: 20px;  
+ } 
+
+ nav a {  
+     text-decoration: none;  
+     color: rgb(83, 161, 116);  
+ }
+
+ .header { 
+     font-size: 2em; 
+     font-family: sans-serif; 
+color:blue
+ }
+
+ p { 
+     font-size: larger;
+     font: italic;
+     color:plum
+
+ }
+
+ img { 
+     border: 2px solid #000; 
+
+ }
+
+ h4 { 
+     font-family: sans-serif; 
+
+ }
+ #favlist{
+    font-family: Arial;
+    color: yellowgreen;  
+
+
+ }
+ 
+
+ ul li { 
+     list-style-type: square;  
+
+ }
+
+ form label{ 
+     display : block ;  
+
+ }
